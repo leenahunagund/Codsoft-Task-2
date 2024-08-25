@@ -1,3 +1,9 @@
+## TASK 2 - Task Tracker Application
+Features: Add, update, and delete tasks. Mark tasks as complete.</br>
+Skills: React state management, component lifecycle, and handling forms
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
